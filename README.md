@@ -2,7 +2,7 @@
 
 This application serves as an example of how to use the Google Drive API to
 pull down your app's files as well as update them in the background using
-Work Manager API's.](https://developer.android.com/topic/libraries/architecture/workmanager)
+[Work Manager API's.](https://developer.android.com/topic/libraries/architecture/workmanager)
 
 This serves as a starting point to allow you to easily store data in Drive
 while being able to recover the files if the profile on the Chrome OS Device is
